@@ -1,4 +1,4 @@
-const EMAIL = "fazil@thecadco.com";
+const EMAIL = "email"; // put email of the alert receipent
 const OWNER_EMAIL = "notdarshant@gmal.com";
 const SHEET_NAME = "Workflow";
 
