@@ -1,6 +1,6 @@
 const EMAIL = "email"; // put email of the alert receipent
-const OWNER_EMAIL = "notdarshant@gmal.com"; // you can change the email of owner of the googgle sheet
-const SHEET_NAME = "Workflow";
+const OWNER_EMAIL = "your-email"; // you can change the email of owner of the googgle sheet
+const SHEET_NAME = "sheet-name"; // enter the sheet name
 
 function onEdit(e) {
   const sheet = e.source.getSheetByName(SHEET_NAME);
